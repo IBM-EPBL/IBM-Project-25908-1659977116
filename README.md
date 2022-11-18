@@ -42,14 +42,13 @@ Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
 until its eventual bankruptcy closed the doors in 1983. 
 At its peak, DHL Air Cargo employed just over 100 workers, management, and pilots.
 ```
-For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1H4D3L1QbcOKLXcXVlIKrOh3yMdUFyRcQ/view?usp=sharing)
+For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1BbNDbnTQ-bBJiO8GTfP8vH0IfVZLng0C/view)
 
 
 # **🎯Skills Required:**
 IBM Cloud, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebook.
 
-# 🔑License:
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-54082-1661588854/blob/main/LICENSE)
+
 
 # Contributions:
 ![Snake animation](https://github.com/SuryaR-25/Snake/blob/main/profile-output/github-contribution-grid-snake.svg)
